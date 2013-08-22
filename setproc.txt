@@ -1,0 +1,27 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: setproc.zip
+       Short Description: Set CPU on or off
+        Long Description: Let you to take your CPU offline (or online) on SMP systems.
+
+      Proposed directory
+           for placement: /pub/os2/util/system
+
+               Your name:  Yuri Dario
+           Email address: mc6530@mclink.it
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: (none) 
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: OS/2, eComStation
+ Additional requirements: SMP
+
+                Replaces: (none)
+
+
+
